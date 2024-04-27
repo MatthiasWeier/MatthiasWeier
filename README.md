@@ -1,9 +1,25 @@
-I’m currently learning C# mainly
-I’m looking to collaborate on fun project in C#
-Goal: Contribute to open source projects
-Still learning :)
+- I’m currently learning C# mainly
+- I’m looking to collaborate on fun projects in C#
+- Goal: Contribute to open source projects / learn as much as possible
 
-  ![](https://komarev.com/ghpvc/?MatthiasWeier&style=plastic)
+![Profile Views](https://komarev.com/ghpvc/?username=MatthiasWeier&color=blue&style=plastic)
+
+## 💻 Tech Stack
+##### but still in the beginning phase
+![C#](https://img.shields.io/badge/C%23-239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E.svg?&style=flat-square&logo=perl&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=java&logoColor=white)
+
+## GitHub Statistics
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthiasWeier&show_icons=true&theme=radical)
+
+
+
+
+
+
 
 <!---
 MatthiasWeier/MatthiasWeier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
