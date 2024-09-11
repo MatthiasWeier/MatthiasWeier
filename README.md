@@ -18,8 +18,8 @@
 ## Fiverr
 [![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73.svg?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/matthias_de_en)
 
-## Buymeacoffe
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Internal21)
+## Paypal
+[![Donate](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](www.paypal.com/paypalme/MatthiasFund/5)
 
 
 
