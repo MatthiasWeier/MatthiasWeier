@@ -27,4 +27,4 @@
 
 ### GitHub Statistics
 
-![Your GitHub stats](https://github.com/MatthiasWeier/remote-devops-lab/README.md) ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthiasWeier&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthiasWeier&show_icons=true&theme=radical)
