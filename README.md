@@ -19,9 +19,7 @@
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED.svg?&style=flat-square&logo=docker&logoColor=white)
 
 **Development:**
-![C#](https://img.shields.io/badge/C%23-239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=git&logoColor=white)
+Claude Code ...
 
 ---
 
